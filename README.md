@@ -57,10 +57,10 @@ Absent students are automatically recorded in students_absent.txt with the curre
 
 ## 🛠️ Compilation & Run Instructions
 
-> On Linux / macOS:
+> On Linux / macOS:<br>
 > <img width="264" height="67" alt="image" src="https://github.com/user-attachments/assets/9b5d7f14-2996-43b0-a799-df584a4c9713" />
 
-> On Windows (using GCC / MinGW):
+> On Windows (using GCC / MinGW):<br>
 > <img width="297" height="68" alt="image" src="https://github.com/user-attachments/assets/ed93e388-8008-48b9-95e7-393beed6802a" />
 
 
