@@ -74,7 +74,7 @@ This project is perfect for practicing:
 
 
 ## 👨‍💻 Author
-Your Name
+Mohammad Saalim
 📧 Email: [mohammadsaalim4718@gmail.com]
 🌐 GitHub: https://github.com/nullvectorcodes
 
